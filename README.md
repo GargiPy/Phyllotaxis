@@ -1,5 +1,5 @@
 # Phyllotaxis
-R DS Project -6
+R DS Project -6. \n
 There are many examples of natural facts that can be described in mathematical terms. Nice examples are the shape of snowflakes, the fractal geometry of 
 romanesco broccoli or how self-similarity rules the growth of plants.
 Let's start by loading the library.
